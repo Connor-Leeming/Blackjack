@@ -1,4 +1,4 @@
-# Blackjack
+# Blackjack Simulation
 
 All code contianed in file **blackjack.py**
 <br>
