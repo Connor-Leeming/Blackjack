@@ -14,3 +14,11 @@ Function which plots balance time series of multiple sims<br>
 
 Function which plots stats of current sim<br>
 **plot_stats()**, lines 737 - 931
+
+### Rules ###
+
+Dealer stands on soft 17<br>
+Double after split permitted<br>
+Multiple splits permitted<br>
+Blackjack pays 3:2<br>
+No insurance<br>
