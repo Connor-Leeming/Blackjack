@@ -1,0 +1,6 @@
+{
+    "dealer stands on soft 17" : false,
+    "dealer peeks for blackjack" : false,
+    "double after split" : false,
+    "surrender" : false
+}
