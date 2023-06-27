@@ -1,4 +1,4 @@
 # Blackjack
 
-![Example Image](/img/classpng.png)
+![Example Image](img/classpng.jpg)
 
